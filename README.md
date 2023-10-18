@@ -35,11 +35,11 @@ _http://[site]:[port]/api/endpoints_
 * Signup
     - Test email : abcde@gmail.com
     - Test password : 12345
-    <p align="center"><img src=""></p><br>
+    <p align="center"><img src="https://github.com/PremKarira/Subscription_Stripe/blob/main/images/signup.png?raw=true"></p><br>
 
 * Login
     - using test email and password
-    <p align="center"><img src=""></p><br>
+    <p align="center"><img src="https://github.com/PremKarira/Subscription_Stripe/blob/main/images/login.png?raw=true"></p><br>
 
 * View Token in browser storage
     - in form of key value pair
