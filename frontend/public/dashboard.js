@@ -6,7 +6,7 @@ function getToken() {
   email = localStorage.getItem('email');
 
   if (email) {
-    document.getElementById('user-email-text').textContent = userEmail;
+    document.getElementById('user-email-text').textContent = email;
   }
 }
 
