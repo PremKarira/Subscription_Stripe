@@ -50,3 +50,7 @@ _http://[site]:[port]/api/endpoints_
     - Provides four different types: 
     - Basic (monthly/yearly) and Premium (monthly/yearly)
     <p align="center"><img src="https://github.com/PremKarira/Subscription_Stripe/blob/main/images/dashboard.png?raw=true"></p><br>
+* if Basic monthly is clicked
+    - it will redirect to stripe gateway 
+    <p align="center"><img src="https://github.com/PremKarira/Subscription_Stripe/blob/main/images/basic_monthly.png?raw=true"></p><br>
+    
