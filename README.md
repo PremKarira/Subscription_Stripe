@@ -35,11 +35,11 @@ _http://[site]:[port]/api/endpoints_
 * Signup
     - Test email : abcde@gmail.com
     - Test password : 12345
-    <p align="center"><img src=""></p><br>
+    <p align="center"><img src="https://github.com/PremKarira/Subscription_Stripe/blob/main/images/signup.png?raw=true"></p><br>
 
 * Login
     - using test email and password
-    <p align="center"><img src=""></p><br>
+    <p align="center"><img src="https://github.com/PremKarira/Subscription_Stripe/blob/main/images/login.png?raw=true"></p><br>
 
 * View Token in browser storage
     - in form of key value pair
@@ -47,7 +47,6 @@ _http://[site]:[port]/api/endpoints_
 
 ## Dashboard Walkthrough
 * New Subscription
-    - To add a new book to the store, fill in the "Title," "Description," and "Price" fields in the "Add New Book" section.
-    - Click the "Add Book" button to add the book to the store.
-    - The book will be displayed in the "Books in Store" section.
+    - Provides four different types: 
+    - Basic (monthly/yearly) and Premium (monthly/yearly)
     <p align="center"><img src=""></p><br>
