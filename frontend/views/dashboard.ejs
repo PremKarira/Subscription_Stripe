@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Movies Dekho .com - Dashboard</title>
+  <link rel="stylesheet" type="text/css" href="/dashboard.css">
+</head>
+
+<body>
+  <h1>Movies Dekho .com - Dashboard</h1>
+
+  <script src="/dashboard.js"></script>
+  <div id="user-email">
+    <p>Welcome, <span id="user-email-text"></span></p>
+  </div>
+
+  <div id="subscription-info">
+    <h2>Your Subscription Details</h2>
+    <p>Plan: <span id="plan"></span></p>
+    <p>Interval: <span id="interval"></span></p>
+    <p>Subscription ID: <span id="subscriptionId"></span></p>
+
+    <button id="refresh-button" type="button" onclick="refresh()">Refresh Subscription</button>
+  
+  </div>
+  <div id="subscription-buttons">
+    <h2>Select a New Subscription Plan</h2>
+    <button class="subscription-button" data-plan="basic" data-interval="monthly" onclick="window.location.href=`https://buy.stripe.com/test_8wMaI4fWl4908XCeUV`;">Basic Monthly</button>
+    <button class="subscription-button" data-plan="basic" data-interval="yearly" onclick="window.location.href=`https://buy.stripe.com/test_6oE03q8tT6h84Hm7su`;">Basic Yearly</button>
+    <button class="subscription-button" data-plan="premium" data-interval="monthly" onclick="window.location.href=`https://buy.stripe.com/test_fZe4jG8tTaxogq4aEH`;">Premium Monthly</button>
+    <button class="subscription-button" data-plan="premium" data-interval="yearly" onclick="window.location.href=`https://buy.stripe.com/test_3cs6rOcK9dJAgq49AE`;">Premium Yearly</button>
+  </div>
+  <script>
+    document.addEventListener('DOMContentLoaded', () => {
+      refresh();
+    });
+  </script>
+  <script src="/dashboard.js"></script>
+</body>
+
+</html>
