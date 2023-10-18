@@ -52,7 +52,7 @@ _http://[site]:[port]/api/endpoints_
     <p align="center"><img src="https://github.com/PremKarira/Subscription_Stripe/blob/main/images/dashboard.png?raw=true"></p><br>
 * if Basic monthly is clicked
     - it will redirect to stripe gateway <p align="center"><img src="https://github.com/PremKarira/Subscription_Stripe/blob/main/images/basic_monthly.png?raw=true"></p><br>
-    - after successful payment <p align="center"><img src="https://github.com/PremKarira/Subscription_Stripe/blob/main/images/successful_basic_monthly.png?raw=true"></p><br>
+    - after successful payment it will reflect the same in dashboard <p align="center"><img src="https://github.com/PremKarira/Subscription_Stripe/blob/main/images/successful_basic_monthly.png?raw=true"></p><br>
 * Pricing:
     - All four subscription <p align="center"><img src="https://github.com/PremKarira/Subscription_Stripe/blob/main/images/all_four.png?raw=true"></p><br>
     
