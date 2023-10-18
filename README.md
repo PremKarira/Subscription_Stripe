@@ -47,7 +47,6 @@ _http://[site]:[port]/api/endpoints_
 
 ## Dashboard Walkthrough
 * New Subscription
-    - To add a new book to the store, fill in the "Title," "Description," and "Price" fields in the "Add New Book" section.
-    - Click the "Add Book" button to add the book to the store.
-    - The book will be displayed in the "Books in Store" section.
+    - Provides four different types: 
+    - Basic (monthly/yearly) and Premium (monthly/yearly)
     <p align="center"><img src=""></p><br>
