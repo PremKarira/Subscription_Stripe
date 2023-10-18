@@ -49,4 +49,4 @@ _http://[site]:[port]/api/endpoints_
 * New Subscription
     - Provides four different types: 
     - Basic (monthly/yearly) and Premium (monthly/yearly)
-    <p align="center"><img src=""></p><br>
+    <p align="center"><img src="https://github.com/PremKarira/Subscription_Stripe/blob/main/images/dashboard.png?raw=true"></p><br>
