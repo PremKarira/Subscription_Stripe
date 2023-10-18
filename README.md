@@ -43,7 +43,7 @@ _http://[site]:[port]/api/endpoints_
 
 * View Token in browser storage
     - in form of key value pair
-    <p align="center"><img src=""></p><br>
+    <p align="center"><img src="https://github.com/PremKarira/Subscription_Stripe/blob/main/images/token_pair.png?raw=true"></p><br>
 
 ## Dashboard Walkthrough
 * New Subscription
